@@ -1,4 +1,49 @@
 {
-  "cars": [],
-  "wishlisted_cars": []
+  "cars": [
+    [
+      [
+        {
+          "brand": "Tata",
+          "gear": "Manual",
+          "year": "2000",
+          "km": "2000",
+          "description": "tata car",
+          "price": "120000",
+          "id": 1672908248714
+        },
+        {
+          "brand": "BMW",
+          "gear": "Manual",
+          "year": "2003",
+          "km": "12",
+          "description": "bmw car",
+          "price": "900000",
+          "id": 1672908336797
+        }
+      ]
+    ]
+  ],
+  "wishlisted_cars": [
+    [
+      {
+        "brand": "Audi",
+        "gear": "Automated",
+        "year": "2004",
+        "km": "80",
+        "description": "audi car",
+        "price": 2000000,
+        "id": 1672905054260
+      },
+      {
+        "brand": "BMW",
+        "gear": "Automated",
+        "year": "2001",
+        "km": "90",
+        "description": "gadi",
+        "price": 12000,
+        "id": 1672902880105,
+        "Price": 12000
+      }
+    ]
+  ]
 }
