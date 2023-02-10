@@ -55,6 +55,7 @@
       "brand": "Callebaut",
       "name": "Callebaut Chocolate Cake (Slice)",
       "price": 100,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://moments365.com/wp-content/uploads/2020/03/Callebaut-Chocolate-03.jpg"
     },
     {
@@ -62,6 +63,7 @@
       "brand": "Callebaut",
       "name": "Callebaut 811 Dark",
       "price": 300,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://www.bakerykart.com/upload/zoom/callebaut-811-zoom.jpg"
     },
     {
@@ -69,6 +71,7 @@
       "brand": "Callebaut",
       "name": "Callebaut Belgian Chocolate Masterpiece",
       "price": 500,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://recipes.clubandresortchef.com/wp-content/uploads/2021/01/Callebaut-Chocolate-Timbale-Feature-1-860x380.jpg"
     },
     {
@@ -76,6 +79,7 @@
       "brand": "Callebaut",
       "name": "Callebaut Chocolate & Cream Cheese Cake",
       "price": 440,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://addicted.co.in/wp-content/uploads/2019/04/Chocolate-Cream-Cheese-Cake-1.jpg"
     },
     {
@@ -83,6 +87,7 @@
       "brand": "2M cocoa",
       "name": "Classic Chocolate Cake",
       "price": 290,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://www.labonelfinebaking.shop/wp-content/uploads/2021/02/CLASSIC-CHOCOLATE-CAKE.jpg"
     },
     {
@@ -90,6 +95,7 @@
       "brand": "2M cocoa",
       "name": "Pineapple Cake",
       "price": 250,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://mrbakers.co.in/wp-content/uploads/2021/07/Pineapple-Cake.png"
     },
     {
@@ -97,6 +103,7 @@
       "brand": "2M cocoa",
       "name": "Strawberry Ombre Cake ",
       "price": 350,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/20277-strawberry-ombre-cake-600x600.jpg?ext=.jpg"
     },
     {
@@ -104,6 +111,7 @@
       "brand": "2M cocoa",
       "name": "Alabama Fudge Cake",
       "price": 380,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://www.totalfoodservice.co.uk/data/ckeditor/article_images/Alabama_Banner_1.jpg"
     },
     {
@@ -111,6 +119,7 @@
       "brand": "Mio Amore",
       "name": "Choco Espresso",
       "price": 80,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://cdn.shopify.com/s/files/1/0633/9382/4983/products/choco_espresso_1_4631525b-4a1f-4a22-a952-f47201c93215.png?v=1663932570"
     },
     {
@@ -118,6 +127,7 @@
       "brand": "Mio Amore",
       "name": "Choco Volcano Eggless",
       "price": 2,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://cdn.shopify.com/s/files/1/0633/9382/4983/products/chocovolcano_eggless.png?v=1667827012&width=1445"
     },
     {
@@ -125,6 +135,7 @@
       "brand": "Mio Amore",
       "name": "Nutty Butterscotch Cake",
       "price": 30,
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "img": "https://cdn.shopify.com/s/files/1/0517/6832/8378/products/WhatsAppImage2021-01-08at12.27.06PM_1024x1024@2x.jpg?v=1622653834"
     }
   ]
